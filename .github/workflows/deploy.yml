@@ -33,3 +33,5 @@ jobs:
           cd /home/fastapi-book-project
           git pull origin main
           sudo systemctl restart fastapi
+
+          
